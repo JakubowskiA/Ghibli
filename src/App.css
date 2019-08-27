@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+
+header{
+  text-align: center;
+  font-size: 48pt;
+  padding: 1em;
+}
